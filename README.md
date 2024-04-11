@@ -1,2 +1,2 @@
 # Synthetic-Meets-Authentic
-Please access the data and model from the link : "[https://emailwsu-my.sharepoint.com/personal/ranjan_sapkota_wsu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Franjan%5Fsapkota%5Fwsu%5Fedu%2FDocuments%2FData%5FSyntheticMeetsAuthentic&ga=1](https://emailwsu-my.sharepoint.com/:f:/g/personal/ranjan_sapkota_wsu_edu/EtKCX-ZkDPdLmtpEzBtNz9UBEV8er9wfoHnHVb5JV-5sxg?e=yqlkB6)https://emailwsu-my.sharepoint.com/:f:/g/personal/ranjan_sapkota_wsu_edu/EtKCX-ZkDPdLmtpEzBtNz9UBEV8er9wfoHnHVb5JV-5sxg?e=yqlkB6"
+Please access the data and model from the link : "https://emailwsu-my.sharepoint.com/:f:/g/personal/ranjan_sapkota_wsu_edu/EtKCX-ZkDPdLmtpEzBtNz9UBElXOaXxAalJNX7DGtHbsPw?e=GQRVUa"
